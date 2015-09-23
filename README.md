@@ -1,1 +1,8 @@
 # GUIAnimation101
+簡単な uGUI アニメーションのサンプルです。
+
+# 使用アセット
+Flight Magic Icon: https://www.assetstore.unity3d.com/en/#!/content/33252
+
+# notes
+GUI Animation Effects: https://www.assetstore.unity3d.com/en/#!/content/31400 を使ってみたい。
